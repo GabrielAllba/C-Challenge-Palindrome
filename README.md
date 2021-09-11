@@ -1,4 +1,4 @@
-# Whale Talk
+# Palindrome
 A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam or racecar. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus).
 
 ## Table of Contents
